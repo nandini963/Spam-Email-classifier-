@@ -1,0 +1,1 @@
+Created a spam email classifier using ML algorithms and NLP techniques. Conducted feature extraction, model training, and rigorous evaluation to ensure precise classification, bolstering email security measures and optimizing user experience. 
